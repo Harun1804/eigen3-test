@@ -1,6 +1,6 @@
 # Profile Diri
-Nama : Harun Ar - Rasyid
-Email : Harun.arrasyid1804@gmail.com
+Nama : Harun Ar - Rasyid <br>
+Email : Harun.arrasyid1804@gmail.com <br>
 Web Portopolio : [Portopolio](https://portopolio-site.herokuapp.com/)
 
 # Swagger Api
